@@ -1,0 +1,88 @@
+
+span {
+	color:#fafbfe;
+}
+body {
+	font-family: 'Open Sans', sans-serif,Arial,Nunito;
+	border-size:border-box;
+	font-size:15px;
+	
+
+}
+#listy:hover span{
+	color:grey;
+}
+
+.btn btn-success:hover {
+	background:darkgreen;
+}
+svg {
+	color:white;
+	margin-left:25px;
+	text-align:center;
+}
+#special {
+	text-align: left;
+	margin-left: 900px;
+	right-padding:0px;
+	font-size: 15px;
+}
+#fa fa-mobile {
+	color:black;
+}
+#new {
+	color:black;
+	font-size:13px;
+	text-align:right;
+}
+
+
+form {
+	padding:0px;
+}
+h1 {
+	color:blue;
+	margin-left:25px;
+	font-size: 25px;
+}
+h5 {
+	margin-left: 500px;
+}
+
+
+#grid {
+
+	background-color: #f1f3fa;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	
+}
+#big {
+	background-color: #B8EBFF;
+}
+li {
+	fill:black;
+	word-spacing: 5px;
+	
+
+}
+#sub {
+	word-spacing: 5px;
+	empty-cells: 5px;
+
+}
+.jumbotron {
+	background-color: white;
+
+}
+.fa-ul {
+	 
+		font-size: 15px;
+
+}
+.lead {
+	font-size: 15px;
+}
+.fa-li {
+	color:black;
+}
